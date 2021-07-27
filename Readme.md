@@ -1,6 +1,6 @@
 <h1 align="center">Bienvenidos:blossom:</h1>
 
-- 👋 Hola Amigo,I'm Clive Dsouza pursuing bachelor's in IT engineering.
+- 👋 Hola Amigo,I'm Clive Dsouza pursuing Bachelor's in IT Engineering.
 - ⚡ I build apps for Fun.
 - 🖥️ Interested in Application Development
 - 🖥️ Currently Learning Dart
