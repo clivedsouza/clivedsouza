@@ -3,7 +3,7 @@
 - 👋 Hola Amigo,I'm Clive Dsouza pursuing Bachelor's in IT Engineering.
 - ⚡ I build apps for Fun.
 - 🖥️ Interested in Application Development
-- 🖥️ Currently Learning Dart
+- 🖥️ Currently Learning Kotlin
 
 ## Languages:
 ![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
