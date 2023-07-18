@@ -36,5 +36,5 @@
 
 
 
-![clivedsouza github stats](https://github-readme-stats.vercel.app/api?username=clivedsouza&count_private=true&include_all_commits=true&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clivedsouza&theme=tokyonight&langs_count=10&layout=compact)
+<!--![clivedsouza github stats](https://github-readme-stats.vercel.app/api?username=clivedsouza&count_private=true&include_all_commits=true&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clivedsouza&theme=tokyonight&langs_count=10&layout=compact)--!>
