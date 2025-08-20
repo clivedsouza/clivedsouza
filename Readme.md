@@ -1,9 +1,9 @@
-<h1 align="center">Bienvenidos:blossom:</h1>
+<h1 align="center">Bem-vindo</h1>
 
-- 👋 Hola Amigo,I'm Clive Dsouza pursuing Bachelor's in IT Engineering.
-- ⚡ I build apps for Fun.
-- 🖥️ Interested in Application Development
-- 🖥️ Currently Learning Kotlin
+- 👋 I'm Clive Dsouza completed Bachelor's in IT Engineering.
+- 🖥️ 3 Years in IaaS
+- ⚡Interested in Cloud Computing
+- 🖥️ Currently Learning DevOps
 
 ## Languages:
 ![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
@@ -25,14 +25,14 @@
 ![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
+# ![](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 
 
 ## Contact:
 [![](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clivedsouza07/)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=dsouzaclive01@gmail.com)
-![](https://img.shields.io/badge/devilc%230033-141321?style=for-the-badge&logo=discord)
-[![](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/clivedsouza)
+# ![](https://img.shields.io/badge/devilc%230033-141321?style=for-the-badge&logo=discord)
+# [![](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/clivedsouza)
 
 
 
