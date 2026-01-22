@@ -1,6 +1,6 @@
-<h1 align="center">Bem-vindo</h1>
+<h1 align="center">Bem-vindo👋</h1>
 
-- 👋 I'm Clive Dsouza completed Bachelor's in IT Engineering.
+- 👋 I'm Clive Dsouza pursuing my Master's degree at UCD.
 - 🖥️ 3 Years in IaaS
 - ⚡Interested in Cloud Computing
 - 🖥️ Currently Learning DevOps
